@@ -1,0 +1,13 @@
+float milesTraveled
+float hoursToFly
+float hoursToDrive
+
+milesTraveled = Get next input 
+// plane fly 500 MPH HoursToFly = milesTraveled / 500.0
+// Car drives 60 MPH hoursToDrive = milesTraveled / 60.0
+Put milesTraveled to output
+Put "miles would take\n" to output 
+Put hoursToFly to output
+Put " hours to fly or\n" to output 
+Put hoursToDrive to output
+Put "hours to drive." to output
